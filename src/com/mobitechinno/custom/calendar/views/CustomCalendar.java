@@ -267,7 +267,7 @@ public class CustomCalendar extends LinearLayout {
 	}
 	
 	/**
-	 * Returns a TextView object by row and index.
+	 * Returns a TextView object by a given row and index.
 	 * */
 	private TextView getTextView(int row, int index) {
 		int rowIndex;
