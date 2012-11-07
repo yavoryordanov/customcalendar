@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="bg_calendar_corner_radius">3dp</dimen>
+    <dimen name="cell_padding_left">2dp</dimen>
+    <dimen name="cell_padding_right">2dp</dimen>
+    <dimen name="cell_padding_top">5dp</dimen>
+    <dimen name="cell_padding_bottom">5dp</dimen>
+    <dimen name="text_days_size">16dp</dimen>
+	<dimen name="text_calendar_days_size">16dp</dimen>                
+</resources>
